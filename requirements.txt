@@ -1,0 +1,4 @@
+gym
+mujoco-py
+numpy
+tensorflow>=1.1.0
