@@ -34,24 +34,24 @@ where `<task>` is one of: `run-to-goal-humans`, `run-to-goal-ants`, `you-shall-n
 
 run-to-goal-humans 
 
-![run-to-goal-humans][https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/run-to-goal-humans.png]
+![run-to-goal-humans](https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/run-to-goal-humans.png)
 
 run-to-goal-ants
 
-![run-to-goal-ants][https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/run-to-goal-ants.png]
+![run-to-goal-ants](https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/run-to-goal-ants.png)
 
 you-shall-not-pass
 
-![you-shall-not-pass][https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/you-shall-not-pass.png]
+![you-shall-not-pass](https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/you-shall-not-pass.png)
 
 sumo-ants
 
-![sumo-ants][https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/sumo-ants.png]
+![sumo-ants](https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/sumo-ants.png)
 
 sumo-humans
 
-![sumo-humans][https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/sumo-humans.png]
+![sumo-humans](https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/sumo-humans.png)
 
 kick-and-defend
 
-![kick-and-defend][https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/kick-and-defend.png]
+![kick-and-defend](https://github.com/ToruOwO/multiagent-competition-envs/blob/main/demos/kick-and-defend.png)
