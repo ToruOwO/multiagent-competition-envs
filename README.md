@@ -2,6 +2,8 @@
 
 This repository contains the *cleaned and updated* environments from the paper [Emergent Complexity via Multi-agent Competition](https://arxiv.org/abs/1710.03748).
 
+(Original code by OpenAI [here](https://github.com/openai/multiagent-competition))
+
 ## Dependencies
 Use `pip install -r requirements.txt` to install dependencies. If you haven't used MuJoCo before, please refer to the [installation guide](https://github.com/openai/mujoco-py).
 The code has been tested with the following dependencies:
@@ -31,6 +33,8 @@ bash demo_tasks.sh <task>
 where `<task>` is one of: `run-to-goal-humans`, `run-to-goal-ants`, `you-shall-not-pass`, `sumo-ants`, `sumo-humans` and `kick-and-defend`
 
 ## Demos
+
+A full list of videos can be found under /demos
 
 run-to-goal-humans 
 
